@@ -2,7 +2,7 @@
   "name": "bibliotekapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ewelinamaniecka.github.io/bibliotecapp/",
+  "homepage": "https://ewelinamaniecka.github.io/bibliotekapp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
