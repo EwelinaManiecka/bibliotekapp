@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bibliotecapp/static/css/main.f855e6bc.css",
-    "main.js": "/bibliotecapp/static/js/main.d07d4e52.js",
-    "static/js/453.07b61089.chunk.js": "/bibliotecapp/static/js/453.07b61089.chunk.js",
-    "static/media/logo.svg": "/bibliotecapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/bibliotecapp/index.html",
-    "main.f855e6bc.css.map": "/bibliotecapp/static/css/main.f855e6bc.css.map",
-    "main.d07d4e52.js.map": "/bibliotecapp/static/js/main.d07d4e52.js.map",
-    "453.07b61089.chunk.js.map": "/bibliotecapp/static/js/453.07b61089.chunk.js.map"
+    "main.css": "/bibliotekapp/static/css/main.f855e6bc.css",
+    "main.js": "/bibliotekapp/static/js/main.0392823e.js",
+    "static/js/453.07b61089.chunk.js": "/bibliotekapp/static/js/453.07b61089.chunk.js",
+    "static/media/logo.svg": "/bibliotekapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bibliotekapp/index.html",
+    "main.f855e6bc.css.map": "/bibliotekapp/static/css/main.f855e6bc.css.map",
+    "main.0392823e.js.map": "/bibliotekapp/static/js/main.0392823e.js.map",
+    "453.07b61089.chunk.js.map": "/bibliotekapp/static/js/453.07b61089.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d07d4e52.js"
+    "static/js/main.0392823e.js"
   ]
 }
