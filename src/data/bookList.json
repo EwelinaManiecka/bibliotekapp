@@ -1,0 +1,50 @@
+[
+    {"id": 1,
+    "title": "W pustyni i w puszczy",
+    "author": {
+        "name": "Henryk",
+        "surname": "Sienkiewicz"
+                },
+    "year": "2014",
+    "editorial": "W drodze",
+    "localization": {
+        "room": "1",
+        "cupboard": "A",
+        "bookshelf": "3"
+                    },
+    "isLend": false
+},
+{
+    "id": 2,
+    "title": "Web Design z HTML i CSS3",
+    "author": {
+        "name": "Władziu",
+        "surname": "Krzeszowski"
+        },
+    "year": "2020",
+    "editorial": "Herlitz",
+    "localization": {
+        "room": "1",
+        "cupboard": "A",
+        "bookshelf": "3"
+        },
+    "isLend": false
+},
+{
+    "id": 3,
+    "title": "Hiszpański. Mapy językowe",
+    "author": {
+        "name": "Anna",
+        "surname": "Wawrykowicz"
+                },
+    "year": "2018",
+    "editorial": "Preston Publishing",
+    "localization": {
+        "room": "1",
+        "cupboard": "A",
+        "bookshelf": "3"
+    },
+    "isLend": false
+}
+
+]
