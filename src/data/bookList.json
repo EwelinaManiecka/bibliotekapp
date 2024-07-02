@@ -45,6 +45,70 @@
         "bookshelf": "3"
     },
     "isLend": false
+},
+{
+    "id": 4,
+    "title": "Twórz własne gry w Pythonie",
+    "author": {
+        "name": "Al",
+        "surname": "Sweigart"
+                },
+    "year": "2018",
+    "editorial": "PWN",
+    "localization": {
+        "room": "1",
+        "cupboard": "C",
+        "bookshelf": "1"
+    },
+    "isLend": false
+},
+{
+    "id": 5,
+    "title": "Silencio",
+    "author": {
+        "name": "Ricardo",
+        "surname": "Zarco Maldonado"
+                },
+    "year": "2020",
+    "editorial": "Edgard",
+    "localization": {
+        "room": "1",
+        "cupboard": "C",
+        "bookshelf": "1"
+    },
+    "isLend": false
+},
+{
+    "id": 6,
+    "title": "Cambiemos el mundo",
+    "author": {
+        "name": "Chiara",
+        "surname": "Michelon"
+                },
+    "year": "2022",
+    "editorial": "ELI",
+    "localization": {
+        "room": "1",
+        "cupboard": "C",
+        "bookshelf": "1"
+    },
+    "isLend": false
+},
+{
+    "id": 7,
+    "title": "Infografika. Sztuka atrakcyjnego prezentowania treści",
+    "author": {
+        "name": "Małgorzata",
+        "surname": "Zimniak-Rucińska"
+                },
+    "year": "2018",
+    "editorial": "One press",
+    "localization": {
+        "room": "1",
+        "cupboard": "A",
+        "bookshelf": "3"
+    },
+    "isLend": false
 }
 
 ]
