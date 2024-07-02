@@ -7,7 +7,7 @@ const Books = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [sortCriteria, setSortCriteria] = useState('');
     const [currentPage, setCurrentPage] = useState(1);
-    const booksPerPage = 10;
+    const booksPerPage = 9;
 
     const handleSearch = (term) => {
         setSearchTerm(term.toLowerCase());
