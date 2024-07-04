@@ -1,9 +1,9 @@
 import React, { useMemo, useState} from "react";
 
 import SearchBooks from "./SearchBooks";
-import bookList from "../data/bookList.json";
+// import bookList from "../data/bookList.json";
 
-const Books = () => {
+const Books = ({books}) => {
     const [searchTerm, setSearchTerm] = useState('');
     const [sortCriteria, setSortCriteria] = useState('');
     const [currentPage, setCurrentPage] = useState(1);
@@ -20,12 +20,12 @@ const Books = () => {
     };
 
     const filteredBooks = useMemo(() => {
-        return bookList.filter(book => 
+        return books.filter(book => 
         book.title.toLowerCase().includes(searchTerm) ||
         `${book.author.name} ${book.author.surname}`.toLowerCase().includes(searchTerm) ||
         book.editorial.toLowerCase().includes(searchTerm) ||
         book.year.includes(searchTerm))
-    }, [searchTerm])
+    }, [searchTerm, books])
 
     const sortedBooks = useMemo(() => {
         const sortedBooks = [...filteredBooks];
