@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bibliotekapp/static/css/main.1d53169a.css",
-    "main.js": "/bibliotekapp/static/js/main.f84be34b.js",
+    "main.css": "/bibliotekapp/static/css/main.538f3c57.css",
+    "main.js": "/bibliotekapp/static/js/main.4b0a5d41.js",
     "static/js/453.07b61089.chunk.js": "/bibliotekapp/static/js/453.07b61089.chunk.js",
     "index.html": "/bibliotekapp/index.html",
-    "main.1d53169a.css.map": "/bibliotekapp/static/css/main.1d53169a.css.map",
-    "main.f84be34b.js.map": "/bibliotekapp/static/js/main.f84be34b.js.map",
+    "main.538f3c57.css.map": "/bibliotekapp/static/css/main.538f3c57.css.map",
+    "main.4b0a5d41.js.map": "/bibliotekapp/static/js/main.4b0a5d41.js.map",
     "453.07b61089.chunk.js.map": "/bibliotekapp/static/js/453.07b61089.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d53169a.css",
-    "static/js/main.f84be34b.js"
+    "static/css/main.538f3c57.css",
+    "static/js/main.4b0a5d41.js"
   ]
 }
